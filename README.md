@@ -1,7 +1,5 @@
-# Mini projects
-Author - sufiyan <br>
-So here im gonna upload my some mini-project!!!
-<br>
-for the next 30 days I'll upload some mini basic level project everyday!!🔥🔥
-<br>
-I used only HTML & CSS for these projects!1
+- 👋 Hi, I’m Sufiyan Ali
+- 👀 I’m interested in web development and progarmming.
+- 🌱 I’m currently learning frontend.
+- 💞️ I’m looking to collaborate on big projects!
+- 💪 For the next 30 days I'm gonna upload some mini projects everyday🫡
